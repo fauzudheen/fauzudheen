@@ -1,16 +1,14 @@
-### Hi there 👋
+I'm Fauzudheen, a self-taught software developer from India, currently on a journey of learning coding with a focus on Python Django full-stack web development. I started my coding journey six months ago and have been actively learning through online resources.
 
-<!--
-**fauzudheen/fauzudheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Currently Learning**: React for front-end development
 
-Here are some ideas to get you started:
+🔭 **Projects**: 
+- Built an eCommerce website for shoes using Python Django
+- Currently working on improving my skills in Data Structures and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach Me**: 
+email - fauzudheen1@gmail.com
+phone - 9061245502
+
+Feel free to reach out to collaborate on projects or discuss anything related to coding and web development!
+
