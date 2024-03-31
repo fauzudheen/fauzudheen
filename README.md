@@ -1,4 +1,4 @@
-I'm Fauzudheen, a self-taught software developer from India, currently on a journey of learning coding with a focus on Python Django full-stack web development. I started my coding journey six months ago and have been actively learning through online resources.
+I'm Fauzudheen, a self-taught software developer from India, have built multiple projects in python-django+React full stack.
 
 🌱 **Currently Learning**: React for front-end development
 
