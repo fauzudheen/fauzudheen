@@ -6,10 +6,10 @@
 
 💬 Ask me about React, Redux, JavaScript, Node.js, Express.js
 
-📫 Reach me at [ahmedrithas48@gmail.com](mailto:ahmedrithas48@gmail.com)
+📫 Reach me at 
 
 ## Connect with me:
-- [GitHub](https://github.com/rithasahmed12)
+- [GitHub]
 - [LinkedIn](#) <!-- Add your LinkedIn profile URL here -->
 
 ## Skills
