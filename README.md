@@ -1,35 +1,61 @@
 # Fauzudheen Abdul Hameed
 
-👨‍💻 MERN stack developer
+👨‍💻 Full-Stack Developer | Python & Django Specialist
 
-🌱 I’m currently learning React and Redux
+🌱 I’m currently building a social media app
 
-💬 Ask me about React, Redux, JavaScript, Node.js, Express.js
+💬 Ask me about Django, Python, Docker
 
-📫 Reach me at 
+📫 Reach me at
 
 ## Connect with me:
-- [GitHub]
-- [LinkedIn](#) <!-- Add your LinkedIn profile URL here -->
+- [GitHub](https://github.com/fauzudheen)
+- [LinkedIn](https://www.linkedin.com/in/fauzudheen-abdul-hameed/)
 
 ## Skills
-### Languages
-JavaScript | C | TypeScript | HTML5 | SQL
 
-### Front-End Development
-React | Tailwind CSS | CSS3 | Bootstrap | Redux | jQuery | Babel | Webpack
+### Languages
+- Python
+- JavaScript
 
 ### Back-End Development
-Node.js | Express.js | Nginx
+- Django
+- Django REST Framework
+- Node.js
+- Express.js
+- ORM
+- JWT
+
+### Front-End Development
+- React
+- Redux
+- Tailwind CSS
+- Bootstrap
+- HTML
+- CSS
 
 ### Database
-MongoDB | PostgreSQL | MySQL
+- PostgreSQL
+- MongoDB
+- MySQL
 
 ### DevOps Tools
-AWS | Google Cloud Platform | Git
+- Docker
+- Kubernetes
+- AWS
+- Git
 
 ### Backend as a Service (BaaS)
-Firebase
+- Firebase
 
 ### Design Tools
-Figma | Canva
+- Figma
+
+### Additional Skills
+- Microservices
+- WebSocket
+- Postman
+
+### Full-Stack Development
+- Frontend
+- Backend
