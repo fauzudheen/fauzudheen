@@ -21,10 +21,11 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
@@ -46,7 +47,7 @@
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Microservices-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/-Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Channels" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
